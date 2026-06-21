@@ -5,7 +5,7 @@ Assignment: Module 4.2 Assignment
 
 The purpose of this code is to have values in an array and then take an average of them and display the values and averages of the arrays
 */
-
+public class AverageOverload {
     public static short average(short[] array) {
         short sum = 0;
 
