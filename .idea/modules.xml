@@ -3,8 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/csd-402.iml" filepath="$PROJECT_DIR$/csd-402.iml" />
-      <module fileurl="file://$PROJECT_DIR$/module-4/module-4.iml" filepath="$PROJECT_DIR$/module-4/module-4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/module-5/module-5.iml" filepath="$PROJECT_DIR$/module-5/module-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-6/module-6.iml" filepath="$PROJECT_DIR$/module-6/module-6.iml" />
     </modules>
   </component>
 </project>
